@@ -1,6 +1,4 @@
-# Hi, I'm Eric
-
-## I turn ideas into systems
+# I turn ideas into systems
 
 I build AI systems, trading and market-research bots, and automation tools — taking an
 idea and turning it into working software that runs on its own.
